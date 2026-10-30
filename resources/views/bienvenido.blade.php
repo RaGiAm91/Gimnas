@@ -55,7 +55,7 @@
                     
                     <p>"El secreto está contenido en una fórmula de tres partes: confianza en sí mismo, actitud mental positiva y trabajo duro"</p>
                         
-                    <p><b> - Arnold Schwarzenegger</b></p>
+                    <p><b> - Arnold Schwarzenegger!!!!!!!!!!!!!!</b></p>
                     <ul class="flex flex-col mb-4 lg:mb-6">
                         <li class="flex items-center gap-4 py-2 relative before:border-l before:border-[#e3e3e0] dark:before:border-[#3E3E3A] before:top-1/2 before:bottom-0 before:left-[0.4rem] before:absolute">
                             
